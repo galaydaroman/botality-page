@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/botality-page/static/css/main.a104471c.css",
+    "main.js": "/botality-page/static/js/main.b35109c4.js",
+    "static/js/377.2deb9d34.chunk.js": "/botality-page/static/js/377.2deb9d34.chunk.js",
+    "static/media/logo192.png": "/botality-page/static/media/logo192.ccefe6cc0e8620bf1fd6.png",
+    "static/js/worker.770c51de.chunk.worker.js": "/botality-page/static/js/worker.770c51de.chunk.worker.js",
+    "index.html": "/botality-page/index.html",
+    "main.a104471c.css.map": "/botality-page/static/css/main.a104471c.css.map",
+    "main.b35109c4.js.map": "/botality-page/static/js/main.b35109c4.js.map",
+    "377.2deb9d34.chunk.js.map": "/botality-page/static/js/377.2deb9d34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a104471c.css",
+    "static/js/main.b35109c4.js"
+  ]
+}
